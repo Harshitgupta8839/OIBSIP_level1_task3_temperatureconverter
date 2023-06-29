@@ -1,0 +1,33 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .input-box {
+    margin-top: 20px;
+  }
+  
+  input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
